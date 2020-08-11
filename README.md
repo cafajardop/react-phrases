@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Api
 
-In the project directory, you can run:
+'https://breaking-bad-quotes.herokuapp.com/v1/quotes'
 
 ### `npm start`
 
